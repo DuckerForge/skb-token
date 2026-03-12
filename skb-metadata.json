@@ -1,6 +1,7 @@
-{
-  "name": "SKBurn",
-  "symbol": "SKB",
-  "description": "The native token of SKR Burner. Burn $SKR, fuel $SKB. Every burn strengthens the ecosystem.",
-  "image": "https://raw.githubusercontent.com/DuckerForge/skb-token/main/skb-token-logo.png"
-}
+{                                                                                                                               
+    "name": "SKBurn",                                                                                                             
+    "symbol": "SKB",                                                                                                              
+    "description": "The native token of SKR Burner app. Burn $SKR, fuel $SKB. 50% of every purchase is burned forever. 5% of    
+  supply funds weekly SOL giveaways for active burners. Every burn strengthens the ecosystem.",
+    "image": "https://raw.githubusercontent.com/DuckerForge/skb-token/main/skb-token-logo.png"
+  }
