@@ -1,7 +1,6 @@
-{                                                                                                                               
-    "name": "SKBurn",                                                                                                             
-    "symbol": "SKB",                                                                                                              
-    "description": "The native token of SKR Burner app. Burn $SKR, fuel $SKB. 50% of every purchase is burned forever. 5% of    
-  supply funds weekly SOL giveaways for active burners. Every burn strengthens the ecosystem.",
-    "image": "https://raw.githubusercontent.com/DuckerForge/skb-token/main/skb-token-logo.png"
-  }
+{
+  "name": "SKBurn (DEPRECATED)",
+  "symbol": "SKB",
+  "description": "DEPRECATED. This token is no longer used and is not supported by the SKR Burner app. Its liquidity is burned and locked. The current token is Seeker Burner (SKB), mint G48Y7mJWNpPHEpXghYhybpRshtPnTLFLssNrcExwM3KH. Do not buy this one.",
+  "image": "https://raw.githubusercontent.com/DuckerForge/skb-token/main/skb-token-logo.png"
+}
