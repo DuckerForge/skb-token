@@ -1,0 +1,13 @@
+{
+  "name": "Seeker Burner",
+  "symbol": "SKB",
+  "description": "Every flame needs fuel. SKB is the fuel of SKR Burner.",
+  "image": "https://raw.githubusercontent.com/DuckerForge/skb-token/main/seeker-burner-logo.jpg",
+  "external_url": "https://duckerforge.github.io/skr-burner-site/",
+  "properties": {
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/DuckerForge/skb-token/main/seeker-burner-logo.jpg", "type": "image/jpeg" }
+    ],
+    "category": "image"
+  }
+}
